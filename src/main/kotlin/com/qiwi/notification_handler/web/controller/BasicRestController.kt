@@ -1,4 +1,4 @@
-package com.qiwi.notification_handler.controller
+package com.qiwi.notification_handler.web.controller
 
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
